@@ -1,0 +1,22 @@
+{
+  "JBoss": {
+    "Active": "Yes"
+  },
+  "TradeMonitor": {
+    "Active": "Yes"
+  },
+  "BasketServer": {
+    "Active": "Yes"
+  },
+  "AppiaBuy": {
+    "Active": "Yes",
+    "Application Directory": "/home"
+  },
+  "AppiaSell": {
+    "Active": "Yes",
+    "Application Directory": "/home"
+  },
+  "Simulator": {
+    "Active": "Yes"
+  }
+}
